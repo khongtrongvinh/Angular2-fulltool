@@ -1,0 +1,4 @@
+- Angular 2 : https://github.com/angular/quickstart
+- nodejs: https://nodejs.org/en/
+- Git:https://git-scm.com/download/
+- Visual studio Code: https://code.visualstudio.com/download
